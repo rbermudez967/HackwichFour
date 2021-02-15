@@ -15,6 +15,7 @@
 		BF0F982E25D3222600EEBB0C /* HackwichFourTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0F982D25D3222600EEBB0C /* HackwichFourTests.swift */; };
 		BF0F983925D3222600EEBB0C /* HackwichFourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0F983825D3222600EEBB0C /* HackwichFourUITests.swift */; };
 		BF0F984725D327A100EEBB0C /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0F984625D327A100EEBB0C /* secondViewController.swift */; };
+		BF0F984925D3383C00EEBB0C /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0F984825D3383C00EEBB0C /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF0F983825D3222600EEBB0C /* HackwichFourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITests.swift; sourceTree = "<group>"; };
 		BF0F983A25D3222600EEBB0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF0F984625D327A100EEBB0C /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		BF0F984825D3383C00EEBB0C /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BF0F981825D3222400EEBB0C /* AppDelegate.swift */,
 				BF0F981A25D3222400EEBB0C /* ViewController.swift */,
 				BF0F981C25D3222400EEBB0C /* Main.storyboard */,
+				BF0F984825D3383C00EEBB0C /* thirdViewController.swift */,
 				BF0F984625D327A100EEBB0C /* secondViewController.swift */,
 				BF0F981F25D3222600EEBB0C /* Assets.xcassets */,
 				BF0F982125D3222600EEBB0C /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				BF0F981B25D3222400EEBB0C /* ViewController.swift in Sources */,
 				BF0F984725D327A100EEBB0C /* secondViewController.swift in Sources */,
+				BF0F984925D3383C00EEBB0C /* thirdViewController.swift in Sources */,
 				BF0F981925D3222400EEBB0C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

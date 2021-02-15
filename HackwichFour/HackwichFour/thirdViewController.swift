@@ -1,5 +1,5 @@
 //
-//  secondViewController.swift
+//  thirdViewController.swift
 //  HackwichFour
 //
 //  Created by Randy Bermudez on 2/9/21.
@@ -8,20 +8,29 @@
 
 import UIKit
 
-class secondViewController: UIViewController {
+class thirdViewController: UIViewController {
 
-    @IBOutlet weak var secondTabLabel: UILabel!
+    @IBOutlet weak var thirdTabLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        //part 10 problem 1
+    
+        thirdTabLabel.text = "My Favorite Foods"
         
-        secondTabLabel.text = "My Classes"
+        
+        
+        
+        
         
         // Do any additional setup after loading the view.
     }
-  
+    
+    @IBAction func thirdTabButton(_ sender: Any)
 
+    {
+    view.backgroundColor = UIColor.green
+        
+    }
     /*
     // MARK: - Navigation
 
